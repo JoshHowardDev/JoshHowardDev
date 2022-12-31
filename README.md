@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a Software Engineer currently learning full stack development, focusing on the MERN stack.<br><br>Feel free to connect with me via message or on
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JoshHowardDev)!
+I am a Software Engineer currently learning full stack development, focusing on the MERN stack.<br><br>Feel free to connect with me via message or on Linked In!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JoshHowardDev)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 

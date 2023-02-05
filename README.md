@@ -1,12 +1,10 @@
 # 💫 About Me:
-I am a Full-Stack Software Engineer with a particular passion for FinTech.
-<br>
-I've always been excited about the opportunities that technology affords in the financial sector, and the speed and efficiency that software solutions provide.
-<br><br>
+I am a Full-Stack Software Engineer with a particular passion for FinTech. I've always been excited about the opportunities that technology affords in the financial sector, and the speed and efficiency that software solutions provide.
+
 I am currently delving deeper into my passion for the world of DevOps and cloud computing to expand on my previous experience in the area.
-<br><br>
+
 Feel free to connect with me via message or on 
-[![LinkedIn](![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://linkedin.com/in/JoshHowardDev)
 
 # 💻 Tech Stack:

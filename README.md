@@ -4,8 +4,7 @@ I am a Full-Stack Software Engineer with a particular passion for FinTech. I've 
 I am currently delving deeper into my passion for the world of DevOps and cloud computing to expand on my previous experience in the area.
 
 Feel free to connect with me via message or on 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://linkedin.com/in/JoshHowardDev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JoshHowardDev)
 
 # 💻 Tech Stack:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)

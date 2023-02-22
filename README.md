@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full-Stack Software Engineer with a particular passion for FinTech. I am currently working day to day on Kubernetes metrics visualization.
+I am a Full-Stack Software Engineer with a particular passion for FinTech. I am currently working on Kubernetes metrics visualization software.
 
 Feel free to connect with me via message or on 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JoshHowardDev)
